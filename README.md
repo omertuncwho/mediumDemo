@@ -1,0 +1,2 @@
+# mediumDemo
+Kodluyoruz Medium Demo
